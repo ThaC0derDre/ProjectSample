@@ -29,13 +29,13 @@ https://user-images.githubusercontent.com/94762769/194168305-8aaf4b3f-4362-49c1-
 
 
 Algorithm to solve multi-varied issues common with creating Schedules.
-This particular algorithm is running through 15+ conditions to make the perfect schedule for the supervisor.
+This particular algorithm is running through 15+ conditions to make the perfect Schedule for the supervisor.
 
 https://user-images.githubusercontent.com/94762769/194168125-1a7bf979-f51c-43aa-a5fd-2f54ae2bfd67.mp4
 
 
 
-Ability to Save and Download schedules from the Firebase Database.
+Ability to Save and Download Schedules from the Firebase Database.
 
 
 
