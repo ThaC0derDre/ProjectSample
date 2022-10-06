@@ -1,6 +1,22 @@
 # ProjectSample
 This is an example of my freelance work. Ask to see official project and code!
 
+
+
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://user-images.githubusercontent.com/94762769/194193788-ecc5d649-18a5-454a-af75-f59eebf2c25e.jpeg" width="200"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://user-images.githubusercontent.com/94762769/194191906-6d695266-865e-41d5-badd-d2c61874fdf4.png" width="600"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
 ## Summary
 This project is a schedule-generating application that saves supervisors <strong>HOURS</strong> of work and stress! <br>
 It also helps staff know vital details apart from where they are to be posted on an hourly basis.<br> <br>
@@ -11,9 +27,10 @@ BUT, what once would take almost an hour for single shift to figure out, now can
 ### App Abilities: <br>
 * Generates a Schedule after considering 15+ conditions
 * Saves to Online Database, to make data visiable to anyone with a log-in 
-* Highlights the user logged in to know where to be posted for the hour
+* Highlights the user logged-in to know where to be posted for the hour
 * Ability to Add, Edit, and Delete Staff/Directories/Schedules/Posts/ and Shifts
-* Able to export to PDF as a single spreadsheet, displaying all vital information nicely
+* Able to export to PDF as a single spreadsheet, displaying all vital information clearly
+* Different capabilities for different users (Supervisors have different views and abilities)
 
 ### Tech Stack: <br>
 * Framework - SwiftUI | Some UIKit & HTML/CSS <br>
