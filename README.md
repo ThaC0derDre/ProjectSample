@@ -47,10 +47,10 @@ This particular algorithm is running through 15+ conditions to make the perfect 
     <table>
 	    <tr>
     	    <td style="padding:20px">
-        	    <img src="https://user-images.githubusercontent.com/94762769/194168305-8aaf4b3f-4362-49c1-91f7-f36dedf47775.mp4" width="350"/>
+        	    <video src="https://user-images.githubusercontent.com/94762769/194168305-8aaf4b3f-4362-49c1-91f7-f36dedf47775.mp4" width="350"/>
       	    </td>
             <td style="padding:20px">
-            	<img src="https://user-images.githubusercontent.com/94762769/194168125-1a7bf979-f51c-43aa-a5fd-2f54ae2bfd67.mp4" width="350"/>
+            	<video src="https://user-images.githubusercontent.com/94762769/194168125-1a7bf979-f51c-43aa-a5fd-2f54ae2bfd67.mp4" width="350"/>
             </td>
         </tr>
     </table>
@@ -72,10 +72,10 @@ This particular algorithm is running through 15+ conditions to make the perfect 
     <table>
 	    <tr>
     	   <td style="padding:20px">
-            	<img src="https://user-images.githubusercontent.com/94762769/194168949-dd9b83fb-4c38-4286-ba69-b6f78fe7db87.mp4" width="350"/>
+            	<video src="https://user-images.githubusercontent.com/94762769/194168949-dd9b83fb-4c38-4286-ba69-b6f78fe7db87.mp4" width="350"/>
             </td>
 		    <td style="padding:20px">
-            	<img src="https://user-images.githubusercontent.com/94762769/194191570-477be338-bcdd-46af-97d0-c01edfb731ad.mp4" width="350"/>
+            	<video src="https://user-images.githubusercontent.com/94762769/194191570-477be338-bcdd-46af-97d0-c01edfb731ad.mp4" width="350"/>
             </td>
         </tr>
     </table>
