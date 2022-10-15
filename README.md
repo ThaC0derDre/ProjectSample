@@ -40,7 +40,7 @@ BUT, what once would take almost an hour for single shift to figure out, now can
 
 
 ## App Clips
-(Left)A tabview making network calls from the database (This loading will only happen upon login). <br>
+(Left) A tabview making network calls from the database (This loading will only happen upon login). <br>
 (Right) Algorithm working to solve multi-varied issues common with creating Schedules.
 This particular algorithm is running through 15+ conditions to make the perfect Schedule for the supervisor. <br>
 <div id="image-table">
@@ -65,8 +65,8 @@ This particular algorithm is running through 15+ conditions to make the perfect 
 
 
 
-(Left)Pulling up previous schedules. <br>
-	(Right)Then using share button to upload/print/share etc...
+(Left) Pulling up previous schedules. <br>
+	(Right) Then using share button to upload/print/share etc...
 
 <div id="image-table">
     <table>
